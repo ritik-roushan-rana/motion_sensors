@@ -1,7 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <application>
-        <!-- No activities are needed in this library -->
+    <application
+        android:allowBackup="true"
+        android:label="Motion Sensors"
+        android:icon="@mipmap/ic_launcher">
+        <!-- No activities required for this library -->
     </application>
 
 </manifest>
