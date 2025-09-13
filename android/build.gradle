@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.ritikrana.motion_sensors"  // set your custom namespace
+    namespace "com.ritikrana.motion_sensors"  // your custom namespace
     compileSdkVersion 33
 
     defaultConfig {
